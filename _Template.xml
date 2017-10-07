@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="" Logo="" Description="">
+		<Server Name="" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/=User=/=Repot=/commits/master.atom</RSS>
+			<ReleaseNotes></ReleaseNotes>
+			<!--DownloadMode>Clone</DownloadMode-->
+			<!--Version>Latest</Version-->
+			<!--EAC>Disabled</EAC-->
+			<!--Excludes>
+				<Exclude>\=File-Folder=</Exclude>
+			</Excludes-->
+			<Downloads>
+				<Download></Download>
+			</Downloads>
+		</Server>
+		
+	</ServerGroup>
+</Servers>
