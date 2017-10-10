@@ -6,7 +6,7 @@
 現在WIP、つまり未完成であるため今後の更新でセーブデータが使えなくなる可能性があります。</Description>
 			<RSS>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/commits/Localize_JP.atom</RSS>
 			<ReleaseNotes></ReleaseNotes>
-			<DownloadMode>Clone</DownloadMode>
+			<!--DownloadMode>Clone</DownloadMode-->
 			<Version>alpha16.2</Version>
 			<EAC>Disabled</EAC>
 			<!--Excludes>
