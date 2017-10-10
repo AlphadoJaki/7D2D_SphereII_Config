@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Localize_JP_Test" Logo="" Description="Internal release of Localize_JP.">
+		<Server Name="True Survival - JZ MOD" Logo="">
+			<Description>True Survival SDX版。
+現在WIP、つまり未完成であるため今後の更新でセーブデータが使えなくなる可能性があります。</Description>
+			<RSS>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/commits/Localize_JP.atom</RSS>
+			<ReleaseNotes></ReleaseNotes>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>alpha16.2</Version>
+			<EAC>Disabled</EAC>
+			<!--Excludes>
+				<Exclude>\=File-Folder=</Exclude>
+			</Excludes-->
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/archive/Localize_JP.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
