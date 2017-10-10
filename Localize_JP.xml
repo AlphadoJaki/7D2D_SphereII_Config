@@ -49,5 +49,20 @@
 				<Download>https://raw.githubusercontent.com/7days2mod/Valmod-Overhaul/master/Bigger%20Backpack%20Mod/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		</Server>
+
+		<Server Name="True Survival - JZ MOD" Logo="">
+			<Description>True Survival Alpha16.2(b7)日本語化MOD</Description>
+			<RSS>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/commits/Localize_JP.atom</RSS>
+			<ReleaseNotes></ReleaseNotes>
+			<!--DownloadMode>Clone</DownloadMode-->
+			<Version>alpha16.2</Version>
+			<EAC>Disabled</EAC>
+			<!--Excludes>
+				<Exclude>\=File-Folder=</Exclude>
+			</Excludes-->
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/archive/Localize_JP.zip</Download>
+			</Downloads>
+		</Server>
 	</ServerGroup>
 </Servers>
