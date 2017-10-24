@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Localize_JP_Test" Logo="" Description="Internal release of Localize_JP.">
+	<ServerGroup Name="Localize_JP_Test" Logo="" Description="Internal release of Localize_JP.\nFrequently Changed">
 		<Server Name="Starvation 日本語" Logo="">
 			<Description>STARVATION日本語化パッチ クイック版
  Starvationのテキストを日本語化した状態でダウンロードするパッチです。
