@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Localize_JP_Test" Logo="" Description="Internal release of Localize_JP.">
-		<Server Name="Starvation 日本語 *Quick*" Logo="">
+		<Server Name="Starvation 日本語" Logo="">
 			<Description>STARVATION日本語化パッチ クイック版
-Starvationのテキストを日本語化した状態でダウンロードするパッチです。
-セーブデータの保証は出来ません。バックアップの上で導入することをおすすめします。
+ Starvationのテキストを日本語化した状態でダウンロードするパッチです。
+ このパッチを利用したことによるセーブデータの保証は出来ません。
+ バックアップの上で導入することをおすすめします。
 
 Quick版について:
-バージョンアップの際に、現時点で完成しているテキストをなるべく早く配布するためのパッチです。
-配布バージョンはMOD Launcher左下のFeedで確認してください。
+ バージョンアップの際に、現時点で完成しているテキストをなるべく早く配布するためのパッチです。
+ 不正確なテキストも存在することを知ったうえで利用してください。
+ 配布バージョンはMOD Launcher左下のFeedで確認してください。
 
-なお、このパッチもStarvation MODと同じライセンスのもとで配布されます。
+なお、このパッチもStarvation Modと同じライセンスのもとで配布されます。
 いかなる許諾を行える権利もAlphado及び、Starvation日本語化プロジェクトは所有しません。
 
 TERMS OF USE:
@@ -20,6 +22,8 @@ By downloading Starvation Mod, you agree that:
 * If you remix, transform, or build upon the material, you may not distribute the modified material, without asking for our permission first. This includes c# code, xml configurations and all included models and icons.
 * If permission is given, you must give appropriate credit, provide a link to this license, and indicate what changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * Many of our assets were purchased and as such we can not give permission to use any of our models on your own projects until further notice.
+
+
 
 
 </Description>
@@ -33,17 +37,7 @@ By downloading Starvation Mod, you agree that:
 				<Exclude>\=File-Folder=</Exclude>
 			</Excludes-->
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/Starvation-tst.git</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/XUi/controls.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/XUi/styles.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/XUi/windows.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/Localization%20-%20Quest.txt</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/Localization.txt</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/blocks.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/buffs.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/entityclasses.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/items.xml</Download>
-				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/quests.xml</Download>
+				<Download>https://github.com/AlphadoJaki/StarvationMod.git</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
