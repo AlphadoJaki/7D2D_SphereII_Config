@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Localize_JP" Logo="" Description="">
+	<ServerGroup Name="Localize_JP" Logo="" Description="日本語化済みMOD。各MODの翻訳者と注意事項はそれぞれの説明文を参照してください。">
+		<Server Name="7 Days To Die Vanilla" Logo="">
+			<Description>翻訳:7Days to Die Japan Wiki</Description>
+			<RSS>https://github.com/AlphadoJaki/Localize_JP/commits/master.atom</RSS>
+			<ReleaseNotes></ReleaseNotes>
+			<!--DownloadMode>Clone</DownloadMode-->
+			<Version>alpha16.3</Version>
+			<!--EAC>Disabled</EAC-->
+			<!--Excludes>
+				<Exclude>\=File-Folder=</Exclude>
+			</Excludes-->
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/Localize_JP/archive/A16.3_Light.zip</Download>
+			</Downloads>
+		</Server>
+
 		<Server Name="Valmod Overhaul" Logo="http://i.imgur.com/d9ZekgH.png">
 			<Description></Description>
 			<RSS>https://github.com/AlphadoJaki/Valmod-Overhaul/commits/Localize_JP.atom</RSS>
