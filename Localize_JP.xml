@@ -17,7 +17,7 @@
 		</Server>
 
 		<Server Name="Valmod Overhaul" Logo="http://i.imgur.com/d9ZekgH.png">
-			<Description></Description>
+			<Description>翻訳:Zo</Description>
 			<RSS>https://github.com/AlphadoJaki/Valmod-Overhaul/commits/Localize_JP.atom</RSS>
 			<ReleaseNotes></ReleaseNotes>
 			<!--DownloadMode>Clone</DownloadMode-->
@@ -31,8 +31,8 @@
 			</Downloads>
 		</Server>
 		
-		<Server Name="Valmod Overhaul with Bigger Backpack =Client=" Logo="http://i.imgur.com/d9ZekgH.png">
-			<Description></Description>
+		<Server Name="Valmod Overhaul with Bigger Backpack _Client_" Logo="http://i.imgur.com/d9ZekgH.png">
+			<Description>翻訳:Zo</Description>
 			<RSS>https://github.com/AlphadoJaki/Valmod-Overhaul/commits/Localize_JP.atom</RSS>
 			<ReleaseNotes></ReleaseNotes>
 			<!--DownloadMode>Clone</DownloadMode-->
@@ -48,8 +48,8 @@
 			</Downloads>
 		</Server>
 		
-		<Server Name="Valmod Overhaul with Bigger Backpack =Server=" Logo="http://i.imgur.com/d9ZekgH.png">
-			<Description></Description>
+		<Server Name="Valmod Overhaul with Bigger Backpack _Server_" Logo="http://i.imgur.com/d9ZekgH.png">
+			<Description>翻訳:Zo</Description>
 			<RSS>https://github.com/AlphadoJaki/Valmod-Overhaul/commits/Localize_JP.atom</RSS>
 			<ReleaseNotes></ReleaseNotes>
 			<!--DownloadMode>Clone</DownloadMode-->
