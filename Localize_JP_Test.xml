@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Localize_JP_Test" Logo="" Description="Internal release of Localize_JP.">
-		<Server Name="True Survival - JZ MOD" Logo="">
-			<Description>True Survival SDX版。
-現在WIP、つまり未完成であるため今後の更新でセーブデータが使えなくなる可能性があります。</Description>
-			<RSS>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/commits/Localize_JP.atom</RSS>
-			<ReleaseNotes></ReleaseNotes>
-			<!--DownloadMode>Clone</DownloadMode-->
-			<Version>alpha16.2</Version>
+		<Server Name="Starvation 日本語 *Quick*" Logo="">
+			<Description>STARVATION日本語化パッチ クイック版
+Starvationのテキストを日本語化した状態でダウンロードするパッチです。
+セーブデータの保証は出来ません。バックアップの上で導入することをおすすめします。
+
+Quick版について:
+バージョンアップの際に、現時点で完成しているテキストをなるべく早く配布するためのパッチです。
+配布バージョンはMOD Launcher左下のFeedで確認してください。
+
+なお、このパッチもStarvation MODと同じライセンスのもとで配布されます。
+いかなる許諾を行える権利もAlphado及び、Starvation日本語化プロジェクトは所有しません。
+
+TERMS OF USE:
+By downloading Starvation Mod, you agree that:
+
+* you can copy the material in any medium or format for your personal use.
+* If you remix, transform, or build upon the material, you may not distribute the modified material, without asking for our permission first. This includes c# code, xml configurations and all included models and icons.
+* If permission is given, you must give appropriate credit, provide a link to this license, and indicate what changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* Many of our assets were purchased and as such we can not give permission to use any of our models on your own projects until further notice.
+
+
+</Description>
+			<RSS>https://github.com/AlphadoJaki/StarvationMod/commits/develop/Localize_JP.atom</RSS>
+			<WebSite>http://starvationteam.com/</WebSite>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>alpha16.3</Version>
 			<EAC>Disabled</EAC>
 			<!--Excludes>
 				<Exclude>\=File-Folder=</Exclude>
 			</Excludes-->
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/archive/Localize_JP.zip</Download>
+				<Download>https://github.com/AlphadoJaki/Starvation-tst.git</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/XUi/controls.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/XUi/styles.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/Localization%20-%20Quest.txt</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/Localization.txt</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/blocks.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/buffs.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/items.xml</Download>
+				<Download>https://raw.githubusercontent.com/AlphadoJaki/StarvationMod/develop/Localize_JP/Data/Config/quests.xml</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
