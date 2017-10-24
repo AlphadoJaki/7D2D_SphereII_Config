@@ -81,5 +81,49 @@
 				<Download>https://github.com/AlphadoJaki/True-Survival-A16-SP-MP/archive/16.2t4.zip</Download>
 			</Downloads>
 		</Server>
+
+		<Server Name="Starvation16日本語" Logo="">
+			<Description>STARVATION日本語化パッチ クイック版
+ Starvationのテキストを日本語化した状態でダウンロードするパッチです。
+ 翻訳:Starvation日本語化プロジェクト
+
+ このパッチを利用したことによるセーブデータの保証は出来ません。
+ バックアップの上で導入することをおすすめします。
+
+Quick版について:
+ バージョンアップの際に、現時点で完成しているテキストをなるべく早く配布するためのパッチです。
+ 不正確なテキストも存在することを知ったうえで利用してください。
+ 配布バージョンはMOD Launcher左下のFeedで確認してください。
+ 
+ なお、これはAlpha16用Full版のリリースと共に統合する予定です。
+
+なお、このパッチもStarvation Modと同じライセンスのもとで配布されます。
+いかなる許諾を行える権利もAlphado及び、Starvation日本語化プロジェクトは所有しません。
+
+TERMS OF USE:
+By downloading Starvation Mod, you agree that:
+
+* you can copy the material in any medium or format for your personal use.
+* If you remix, transform, or build upon the material, you may not distribute the modified material, without asking for our permission first. This includes c# code, xml configurations and all included models and icons.
+* If permission is given, you must give appropriate credit, provide a link to this license, and indicate what changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* Many of our assets were purchased and as such we can not give permission to use any of our models on your own projects until further notice.
+
+
+
+
+</Description>
+			<RSS>https://github.com/AlphadoJaki/StarvationMod/commits/develop/Localize_JP.atom</RSS>
+			<WebSite>http://starvationteam.com/</WebSite>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>alpha16.3</Version>
+			<EAC>Disabled</EAC>
+			<!--Excludes>
+				<Exclude>\=File-Folder=</Exclude>
+			</Excludes-->
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/StarvationMod.git</Download>
+			</Downloads>
+		</Server>
 	</ServerGroup>
 </Servers>
