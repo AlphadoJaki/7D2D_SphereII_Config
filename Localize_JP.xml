@@ -6,7 +6,7 @@
 			<RSS>https://github.com/AlphadoJaki/Localize_JP/commits/master.atom</RSS>
 			<ReleaseNotes></ReleaseNotes>
 			<!--DownloadMode>Clone</DownloadMode-->
-			<Version>alpha16.3</Version>
+			<Version>alpha16.4</Version>
 			<!--EAC>Disabled</EAC-->
 			<!--Excludes>
 				<Exclude>\=File-Folder=</Exclude>
@@ -84,7 +84,7 @@
 
 		<Server Name="Starvation16日本語" Logo="">
 			<Description>STARVATION日本語化パッチ フル版
- 対応バージョン : Alpha16.3
+ 対応バージョン : Alpha16.4
  
  Starvationのテキストを日本語化した状態でダウンロードするパッチです。
  翻訳:Starvation日本語化プロジェクト
@@ -111,7 +111,7 @@ By downloading Starvation Mod, you agree that:
 			<WebSite>http://starvationteam.com/</WebSite>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
 			<DownloadMode>Clone</DownloadMode>
-			<Version>alpha16.3</Version>
+			<Version>alpha16.4</Version>
 			<EAC>Disabled</EAC>
 			<!--Excludes>
 				<Exclude>\=File-Folder=</Exclude>
