@@ -1,0 +1,21 @@
+<Patches>
+  <Patch Name="RWG Overhaul Fix" CreatedBy="Alphado">
+  
+  <Link>https://github.com/AlphadoJaki/7D2D_SphereII_Patch/raw/master/Alpha16.4/RWG_OverhaulFix/RWG_OverhaulFix.zip</Link>
+    <Description>
+The patch fixes existing Random World Generator.
+EAC must be disabled.
+
+Following fixes are included.
+terrain_generator :
+1. Module type Perlin is available.
+2. Turbulence accept seed_additive.
+3. base_height is working better. (need more fix on distant terrain)
+
+hub_rule :
+1. street_gen level is working. * PLEASE START WITH 4 !! *
+2. path_radius is working.
+3. downtown_zone_size_perc is working.
+	</Description>
+  </Patch>
+</Patches>
