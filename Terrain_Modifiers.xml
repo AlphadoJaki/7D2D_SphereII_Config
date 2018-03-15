@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Alphado" Logo="" Description="">
+		<Server Name="TMs Various Plains" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/Main_(water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/Main_(water).zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Various Plains (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/NO/LESS_water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/NO/LESS_water.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vivid" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/Main/(water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/Main/(water).zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vivid (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/Main/(NO_water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/Main/(NO_water).zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vivid City L" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/City_L/(water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/City_L/(water).zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vivid City L (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/City_L/(NO_water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/City_L/(NO_water).zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vivid City XL" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/City_L/(water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<EAC>Disabled</EAC>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/City_L/(water).zip</Download>
+				<Download>https://github.com/AlphadoJaki/RWG_Overhaul_Fix/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vivid City XL (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/City_L/(NO_water).atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<EAC>Disabled</EAC>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/City_L/(NO_water).zip</Download>
+				<Download>https://github.com/AlphadoJaki/RWG_Overhaul_Fix/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vanilla-ish A15.2" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a15.2/_main.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a15.2/_main.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vanilla-ish A16.2 (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a16.2/no-water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a16.2/no-water.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vanilla-ish A16.2" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a16.2/_main.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a16.2/_main.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vanilla-ish A15.2 (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a15.2/no-water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a15.2/no-water.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vanilla-ish A16.4" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a16.4/_main.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a16.4/_main.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="TMs Vanilla-ish A16.4 (No water)" Logo="">
+			<Description></Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a16.4/no-water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a16.4/no-water.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
