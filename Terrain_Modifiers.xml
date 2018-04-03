@@ -152,7 +152,7 @@ EAC is OFF</Description>
 			</Downloads>
 		</Server>
 		
-		<Server Name="TMs Biome Based" Logo="">
+		<Server Name="TMs Biome Based 0040" Logo="">
 			<Description>Last, but not least.
 This provides the most variated terrain generation.
 All geographical features belong to specific biomes, such as Mesa for Desert and Bomb Crater for Wasteland.
@@ -165,7 +165,7 @@ This mod is WIP, sometime generates cliffs and cities are smaller than others.</
 			</Downloads>
 		</Server>
 		
-		<Server Name="TMs Biome Based (No water)" Logo="">
+		<Server Name="TMs Biome Based 0040 (No water)" Logo="">
 			<Description>no water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Biome_Based/commits/Main/(NO_water).atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Biome_Based/releases</ReleaseNotes>
