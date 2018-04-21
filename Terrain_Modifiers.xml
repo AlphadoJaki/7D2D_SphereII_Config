@@ -10,20 +10,64 @@ Sometimes cities are prevented by mountains.</Description>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/water/16.4/1.5.0.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Various Plains (No water)" Logo="">
 			<Description>No water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/main/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/no-water/16.4/1.5.0.zip</Download>
 			</Downloads>
 		</Server>
-		
+
+		<Server Name="TMs Full Varied V160" Logo="">
+			<Description>The new version of Various plains.
+Much more varied mountains and beautiful rivers.
+
+Mountain, river, and varied wavy plains.
+Varied terrain-generator and biome-generator for scenic generation.
+Generates no oceans and extreme lakes, but rivers and midium lakes.
+Sometimes cities are prevented by mountains.</Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/main/water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/water/16.4/1.6.0.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="TMs Full Varied V160 (No water)" Logo="">
+			<Description>No water version</Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/main/no-water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/no-water/16.4/1.6.0.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="TMs Full Varied V160 City L" Logo="">
+			<Description>Larger city version</Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/city-L/water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/city-L/water/16.4/1.6.0.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="TMs Full Varied V160 City L (No water)" Logo="">
+			<Description>Larger city and No water version</Description>
+			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/city-L/no-water.atom</RSS>
+			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
+			<Version>a16.4</Version>
+			<Downloads>
+				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/city-L/no-water/16.4/1.6.0.zip</Download>
+			</Downloads>
+		</Server>
+
+
 		<Server Name="TMs Vivid" Logo="">
 			<Description>Sharpened beautiful mountains, river, but plains are completely flat.
 Mountain is completely renewed for this generator.
@@ -32,40 +76,38 @@ Less variation than River + Various Plains, though larger city is generated.</De
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/main/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/main/water/16.4/1.0.0.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Vivid (No water)" Logo="">
 			<Description>No water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/main/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/main/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/main/no-water/16.4/1.0.0.zip</Download>
 			</Downloads>
 		</Server>
-		
+
 		<Server Name="TMs Vivid City L" Logo="">
 			<Description>Larger city version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/city-L/water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/water/16.4/1.0.0.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Vivid City L (No water)" Logo="">
 			<Description>Larger city and no water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vivid/commits/city-L/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vivid/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/no-water/16.4/1.0.0.zip</Download>
 			</Downloads>
 		</Server>
-		
+
 		<Server Name="TMs Vivid City XL" Logo="">
 			<Description>Extremely larger city version
 EAC is OFF</Description>
@@ -74,11 +116,10 @@ EAC is OFF</Description>
 			<Version>a16.4</Version>
 			<EAC>Disabled</EAC>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/water/16.4/1.0.0.zip</Download>
 				<Download>https://github.com/AlphadoJaki/RWG_Overhaul_Fix/archive/master.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Vivid City XL (No water)" Logo="">
 			<Description>Extremely larger city and no water version
 EAC is OFF</Description>
@@ -87,71 +128,69 @@ EAC is OFF</Description>
 			<Version>a16.4</Version>
 			<EAC>Disabled</EAC>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vivid/archive/city-L/no-water/16.4/1.0.0.zip</Download>
 				<Download>https://github.com/AlphadoJaki/RWG_Overhaul_Fix/archive/master.zip</Download>
 			</Downloads>
 		</Server>
-		
+
 		<Server Name="TMs Vanilla-ish A15.2" Logo="">
 			<Description>a15.2-ish terrain generation</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/15.2/water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/15.2/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/15.2/water/16.4/01.0.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Vanilla-ish A15.2 (No water)" Logo="">
 			<Description>a16.2-ish terrain generation but no water</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/15.2/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/15.2/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/15.2/no-water/16.4/01.0.zip</Download>
 			</Downloads>
 		</Server>
-		
+
 		<Server Name="TMs Vanilla-ish A16.2" Logo="">
 			<Description>a16.2-ish terrain generation</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/16.2/water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.2/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.2/water/16.4/01.0.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Vanilla-ish A16.2 (No water)" Logo="">
 			<Description>a15.2-ish terrain generation but no water</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/16.2/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.2/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.2/no-water/16.4/01.0.zip</Download>
 			</Downloads>
 		</Server>
-		
+
 		<Server Name="TMs Vanilla-ish A16.4" Logo="">
 			<Description>a16.4-ish terrain generation</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/a16.4/water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/a16.4/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.4/water/16.4/01.0.zip</Download>
 			</Downloads>
 		</Server>
-		
 		<Server Name="TMs Vanilla-ish A16.4 (No water)" Logo="">
 			<Description>a16.4-ish terrain generation but no water</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Vanilla-ish/commits/16.4/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Vanilla-ish/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.4/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Vanilla-ish/archive/16.4/no-water/16.4/01.0.zip</Download>
 			</Downloads>
 		</Server>
-		
+
+
 		<Server Name="TMs Biome Based 0040" Logo="">
 			<Description>Last, but not least.
 This provides the most variated terrain generation.
@@ -161,17 +200,17 @@ This mod is WIP, sometime generates cliffs and cities are smaller than others.</
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Biome_Based/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Biome_Based/archive/main/water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Biome_Based/archive/main/water/16.4/0.04.1.zip</Download>
 			</Downloads>
 		</Server>
-		
+
 		<Server Name="TMs Biome Based 0040 (No water)" Logo="">
 			<Description>no water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-Biome_Based/commits/main/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-Biome_Based/releases</ReleaseNotes>
 			<Version>a16.4</Version>
 			<Downloads>
-				<Download>https://github.com/AlphadoJaki/TMs-Biome_Based/archive/main/no-water.zip</Download>
+				<Download>https://github.com/AlphadoJaki/TMs-Biome_Based/archive/main/no-water/16.4/0.04.1.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
