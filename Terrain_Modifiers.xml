@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Alphado" Logo="https://i.imgur.com/ldaIho3.jpg" Description="Mainly terrain modification">
+	<ServerGroup Name="Alphado" Logo="https://i.imgur.com/ldaIho3l.jpg" Description="Mainly terrain modification">
 		<Server Name="TMs Various Plains" Logo="">
 			<Description>Mountain, river, and variated wavy plains.
 Variated terrain-generator and biome-generator for scenical generation.
@@ -23,7 +23,7 @@ Sometimes cities are prevented by mountains.</Description>
 			</Downloads>
 		</Server>
 
-		<Server Name="TMs Full Varied V160" Logo="">
+		<Server Name="TMs Full Varied V160" Logo="https://i.imgur.com/U88BHkTl.png">
 			<Description>The new version of Various plains.
 Much more varied mountains and beautiful rivers.
 
@@ -38,7 +38,7 @@ Sometimes cities are prevented by mountains.</Description>
 				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/main/water/16.4/1.6.0.zip</Download>
 			</Downloads>
 		</Server>
-		<Server Name="TMs Full Varied V160 (No water)" Logo="">
+		<Server Name="TMs Full Varied V160 (No water)" Logo="https://i.imgur.com/U88BHkTl.png">
 			<Description>No water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/main/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
@@ -48,7 +48,7 @@ Sometimes cities are prevented by mountains.</Description>
 			</Downloads>
 		</Server>
 
-		<Server Name="TMs Full Varied V160 City L" Logo="">
+		<Server Name="TMs Full Varied V160 City L" Logo="https://i.imgur.com/U88BHkTl.png">
 			<Description>Larger city version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/city-L/water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
@@ -57,7 +57,7 @@ Sometimes cities are prevented by mountains.</Description>
 				<Download>https://github.com/AlphadoJaki/TMs-River_Plains/archive/city-L/water/16.4/1.6.0.zip</Download>
 			</Downloads>
 		</Server>
-		<Server Name="TMs Full Varied V160 City L (No water)" Logo="">
+		<Server Name="TMs Full Varied V160 City L (No water)" Logo="https://i.imgur.com/U88BHkTl.png">
 			<Description>Larger city and No water version</Description>
 			<RSS>https://github.com/AlphadoJaki/TMs-River_Plains/commits/city-L/no-water.atom</RSS>
 			<ReleaseNotes>https://github.com/AlphadoJaki/TMs-River_Plains/releases</ReleaseNotes>
