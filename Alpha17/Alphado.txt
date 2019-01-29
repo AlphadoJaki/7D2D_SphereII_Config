@@ -2,6 +2,6 @@
 https://github.com/AlphadoJaki/TMs-Infinite_Core
 https://github.com/AlphadoJaki/TMs-Infinite_Option
 
-# Terrain modifiers - Standalone
-https://github.com/AlphadoJaki/TMs-River_Plains
-https://github.com/AlphadoJaki/TMs-Vivid
+# # Terrain modifiers - Standalone
+# https://github.com/AlphadoJaki/TMs-River_Plains
+# https://github.com/AlphadoJaki/TMs-Vivid
