@@ -1,6 +1,7 @@
 # Terrain modifiers - Infinite
 https://github.com/AlphadoJaki/TMs-Infinite_Core
 https://github.com/AlphadoJaki/TMs-Infinite_Option
+https://github.com/AlphadoJaki/7D2D_Modlet
 
 # # Terrain modifiers - Standalone
 # https://github.com/AlphadoJaki/TMs-River_Plains
